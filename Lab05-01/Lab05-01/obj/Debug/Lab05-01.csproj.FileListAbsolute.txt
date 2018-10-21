@@ -1,0 +1,11 @@
+E:\Microsoft Visual Studio\2017\source\repos\Lab05-01\Lab05-01\bin\Debug\Lab05-01.exe.config
+E:\Microsoft Visual Studio\2017\source\repos\Lab05-01\Lab05-01\bin\Debug\Lab05-01.exe
+E:\Microsoft Visual Studio\2017\source\repos\Lab05-01\Lab05-01\bin\Debug\Lab05-01.pdb
+E:\Microsoft Visual Studio\2017\source\repos\Lab05-01\Lab05-01\obj\Debug\Lab05-01.csprojAssemblyReference.cache
+E:\Microsoft Visual Studio\2017\source\repos\Lab05-01\Lab05-01\obj\Debug\Lab05_01.ManPerson.resources
+E:\Microsoft Visual Studio\2017\source\repos\Lab05-01\Lab05-01\obj\Debug\Lab05_01.Properties.Resources.resources
+E:\Microsoft Visual Studio\2017\source\repos\Lab05-01\Lab05-01\obj\Debug\Lab05-01.csproj.GenerateResource.cache
+E:\Microsoft Visual Studio\2017\source\repos\Lab05-01\Lab05-01\obj\Debug\Lab05-01.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio\2017\source\repos\Lab05-01\Lab05-01\obj\Debug\Lab05-01.exe
+E:\Microsoft Visual Studio\2017\source\repos\Lab05-01\Lab05-01\obj\Debug\Lab05-01.pdb
+E:\Microsoft Visual Studio\2017\source\repos\Lab05-01\Lab05-01\obj\Debug\Lab05_01.BuscarForm.resources
